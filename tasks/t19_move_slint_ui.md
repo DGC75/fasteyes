@@ -1,9 +1,10 @@
 ---
 id: t19
 title: Move Slint UI macro into src/ui.rs
-status: Review
+status: Done
 created: 2026-10-23
-updated: 2026-10-23T04:53:15Z
+updated: 2026-10-23T06:43:17Z
+order: 9
 ---
 
 ## Goal and constraints

@@ -1,1 +1,26 @@
 /target/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Editors and operating systems
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+#ignore this stuff
+/.kandown/
+/.cargo/
+/docs/
+/tasks/
+
+AGENTS.md
+CONTEXT.md
+
+

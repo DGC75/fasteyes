@@ -1,9 +1,10 @@
 ---
 id: t4
 title: Display the first word of a text document
-status: Review
+status: Done
 created: 2026-10-22
-updated: 2026-10-22T17:04:11Z
+updated: 2026-10-23T06:43:17Z
+order: 3
 ---
 
 ## Goal
